@@ -1,6 +1,7 @@
 源码部分有参考Clean Player项目，源地址及介绍在 ---https://github.com/pansinm/CleanPlayer 本项目删除了无用的QCookieJar部分，并添加了本地音乐及标签读取及简单的换肤功能等。
 
 其他说明：
+
 0）要求Qt5.5+库编译，推荐msvc版本，遵从LGPL协议，开源只为交流学习；
 
 1)点播状态下搜索网络歌曲，注意会自动下载歌词；
